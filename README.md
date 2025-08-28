@@ -1,4 +1,4 @@
-# 📊 CaseCraft: The Analytics Sprint  
+# 📊 CaseCraft: The Analytics Project Sprint  
 **Author:** Gyanankur Baruah  
 **Sprint Duration:** 30+ modular projects  
 **Focus:** Clarity-driven analytics, domain diversity, reusable logic, and audience-aware storytelling
@@ -62,7 +62,7 @@ The CaseCraft Analytics Sprint is a 30+ project series designed to showcase modu
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)  
 - Prophet, Statsmodels (for time series)  
 - Colab (for markdown/code separation)  
-- GitHub/Notion (for deployment)
+- GitHub (for deployment)
 
 ---
 
