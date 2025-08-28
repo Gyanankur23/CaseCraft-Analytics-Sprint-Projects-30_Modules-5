@@ -1,11 +1,10 @@
-# CaseCraft-Analytics-Sprint-Projects-30_Modules-5
-
 # 📊 CaseCraft: The Analytics Sprint  
 **Author:** Gyanankur Baruah  
 **Sprint Duration:** 30+ modular projects  
 **Focus:** Clarity-driven analytics, domain diversity, reusable logic, and audience-aware storytelling
 
 ---
+
 
 ## 🧭 Overview
 
