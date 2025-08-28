@@ -33,7 +33,7 @@ The CaseCraft Analytics Sprint is a 30+ project series designed to showcase modu
 | 28/30 | Airbnb SEO Scorecard | Hospitality | Scorecard | Ranking |
 | 30/30 | Challenge Recap Dashboard | Meta | Dashboard | Summary |
 
-> Full project list available in `1-30.pdf` or via sprint dashboard.
+> Full project list available in `1-30.pdf`.
 
 ---
 
@@ -93,4 +93,5 @@ This sprint is more than a technical showcase—it's a strategic, emotional, and
 Built with clarity. Delivered with care.
 
 — Gyanankur  
-MetaMindset Labs
+[https://github.com/Gyanankur23]
+
